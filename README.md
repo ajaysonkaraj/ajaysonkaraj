@@ -38,11 +38,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysonkaraj" alt="ajaysonkaraj" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs, MariaDB**
+- 🌱 I’m currently learning **MariaD, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajaysonkaraj](https://github.com/ajaysonkaraj)
 
-- 💬 Ask me about **react, android**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ajaysonkar/**
 
